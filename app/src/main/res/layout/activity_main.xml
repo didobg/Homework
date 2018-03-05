@@ -180,7 +180,7 @@
                     <ImageView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/thank_1"/>
+                        android:src="@drawable/thank1"/>
                     <TextView
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
